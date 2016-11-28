@@ -14,5 +14,5 @@
 fe80::1%lo0 localhost
 
 # [General]
-0.0.0.0 pipe.aria.microsoft.com
+0.0.0.0 mobile.pipe.aria.microsoft.com pipe.aria.microsoft.com
 0.0.0.0 wt.bankmillennium.pl
